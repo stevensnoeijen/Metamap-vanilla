@@ -1534,7 +1534,7 @@
 		<Anchors>
 			<Anchor	point="CENTER" relativeTo="WorldMapZoomOutButton"	relativePoint="CENTER">
 				<Offset>
-					<AbsDimension	x="0"	y="0"/>
+					<AbsDimension	x="200"	y="0"/>
 				</Offset>
 			</Anchor>
 		</Anchors>
